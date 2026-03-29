@@ -50,7 +50,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 🏴 Practice Platforms
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Hackviser](https://img.shields.io/badge/Hackviser-6C3483?style=for-the-badge&logoColor=white)
 
 </div>
@@ -95,9 +94,6 @@ student_note: >
 
 <div align="center">
 
-### TryHackMe
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/yusufseday.png)](https://tryhackme.com/p/yusufseday)
-
 ### Hackviser
 [![Hackviser](https://img.shields.io/badge/Hackviser-View%20Profile-6C3483?style=for-the-badge&logoColor=white)](https://app.hackviser.com/profile/yuszzy)
 
@@ -112,8 +108,6 @@ student_note: >
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Seday-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufseday/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-yusufseday-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yusufseday)
-[![Hackviser](https://img.shields.io/badge/Hackviser-yuszzy-6C3483?style=for-the-badge&logoColor=white)](https://app.hackviser.com/profile/yuszzy)
 [![Gmail](https://img.shields.io/badge/Gmail-yusufsedayy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufsedayy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yusufseday-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusufseday)
 
