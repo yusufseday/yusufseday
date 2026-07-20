@@ -1,129 +1,98 @@
 <div align="center">
 
-```
-██╗   ██╗██╗   ██╗███████╗██╗   ██╗███████╗    ███████╗███████╗██████╗  █████╗ ██╗   ██╗
-╚██╗ ██╔╝██║   ██║██╔════╝██║   ██║██╔════╝    ██╔════╝██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝
- ╚████╔╝ ██║   ██║███████╗██║   ██║█████╗      ███████╗█████╗  ██║  ██║███████║ ╚████╔╝ 
-  ╚██╔╝  ██║   ██║╚════██║██║   ██║██╔══╝      ╚════██║██╔══╝  ██║  ██║██╔══██║  ╚██╔╝  
-   ██║   ╚██████╔╝███████║╚██████╔╝██║         ███████║███████╗██████╔╝██║  ██║   ██║   
-   ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝         ╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   
-```
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=50&section=header&text=&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=whoami+%3E+yusufseday;Cybersecurity;Penetration+Tester;+ethically.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Yusuf+SEDAY;Cybersecurity+%26+Offensive+Security;Computer+Engineering)](https://git.io/typing-svg)
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Yusuf SEDAY — animated terminal profile card" src="dark.svg" width="100%">
+</picture>
 
----
+<br>
 
-## 🖥️ `$ cat about_me.txt`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufseday/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufsedayy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusufseday)
 
-```bash
-┌──(yusufseday㉿kali)-[~]
-└─$ whoami
-
-  Name        :  Yusuf Seday
-  Status      :  Cybersecurity Intern
-  Aspiration  :  Penetration Tester
-  Speciality  :  Web & Network Penetration Testing
-  Methodology :  Recon → Enumerate → Exploit → Report
-  Mindset     :  Every lab completed is a step closer to the real world.
-```
-
----
-
-## 🛠️ `$ ls -la /skills`
-
-<div align="center">
-
-### ⚙️ Operating Systems
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🔍 Penetration Testing Tools
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### 🏴 Practice Platforms
-![Hackviser](https://img.shields.io/badge/Hackviser-6C3483?style=for-the-badge&logoColor=white)
-
-</div>
-
-## 🎯 `$ cat active_missions.log`
-
-```
-[*] Web Application Penetration Testing (OWASP Top 10) ............ [ ACTIVE ]
-[*] Network Penetration Testing & Service Enumeration .............. [ ACTIVE ]
-[*] Privilege Escalation — Linux & Windows environments ............ [ ACTIVE ]
-[*] Active Directory attacks & lateral movement techniques ......... [ LEARNING ]
-[*] Custom exploit development with Python & Bash .................. [ LEARNING ]
-[*] CTF competitions via TryHackMe & Hackviser ..................... [ ONGOING ]
-```
-
----
-
-## 🔬 `$ cat pentest_focus.yaml`
-
-```yaml
-web_application:
-  - SQL Injection / XSS / CSRF / IDOR
-  - Authentication bypass & session hijacking
-  - Broken access control & misconfigurations
-  - Burp Suite manual testing & automation
-
-network:
-  - Network scanning & service enumeration (Nmap)
-  - Exploitation of common CVEs
-  - Post-exploitation & pivoting
-  - Password attacks & credential harvesting
-
-student_note: >
-  I am actively building my skills through hands-on labs and CTF challenges.
-  Each room completed, each vulnerability exploited in a controlled environment,
-  brings me one step closer to becoming a professional penetration tester.
-```
-
----
-
-## 🏆 `$ cat practice_platforms.txt`
-
-<div align="center">
-
-### Hackviser
-[![Hackviser](https://img.shields.io/badge/Hackviser-View%20Profile-6C3483?style=for-the-badge&logoColor=white)](https://app.hackviser.com/profile/yuszzy)
-
-> *"The quieter you become, the more you are able to hear."*
+![](https://komarev.com/ghpvc/?username=yusufseday&color=7C3AED&style=flat-square&label=Profile+Views)
+![](https://img.shields.io/github/followers/yusufseday?style=flat-square&color=6366F1&label=Followers)
+![](https://img.shields.io/github/stars/yusufseday?style=flat-square&color=A78BFA&label=Stars)
 
 </div>
 
 ---
 
-## 📡 `$ netstat --contact`
+## About
+
+I am a motivated Computer Engineering student passionate about building a career in cybersecurity and offensive security.
+
+---
+
+## Tech Stack
+
+### Security & Systems
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Seday-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufseday/)
-[![Gmail](https://img.shields.io/badge/Gmail-yusufsedayy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufsedayy@gmail.com)
+![](https://github-readme-stats.vercel.app/api?username=yusufseday&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=yusufseday&theme=tokyonight&border_radius=10&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufseday&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=yusufseday&theme=tokyo-night&hide_border=true&area=true)
+
+![snake gif](https://raw.githubusercontent.com/yusufseday/yusufseday/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-yusufsedayy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufsedayy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_SEDAY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufseday/)
 [![GitHub](https://img.shields.io/badge/GitHub-yusufseday-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusufseday)
 
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yusufseday.yusufseday&left_color=black&right_color=brightgreen&left_text=profile+views)
+<br>
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║              [ CONNECTION ESTABLISHED ]  🔓               ║
 ║   "Every system has a weakness. Find it before they do."  ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
